@@ -1,0 +1,6 @@
+{
+  "name": "Valmont Private Estates",
+  "description": "An international prime real estate agency showcasing architectural residences, private estates, and luxury investment portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
